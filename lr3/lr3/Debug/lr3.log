@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\DASHA\source\repos\lr3\lr3\Figure.h(54,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\DASHA\source\repos\lr3\lr3\Figure.h(59,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  lr3.vcxproj -> C:\Users\DASHA\source\repos\lr3\Debug\lr3.exe
